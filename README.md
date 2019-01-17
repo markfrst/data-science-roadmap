@@ -14,6 +14,16 @@ The purpose of this roadmap is to give you an overview of the core skills needed
 
 ![Roadmap](./path_resources/roadmap.png)
 
+### Algorithms
+
+- [x] Linear regression
+- [ ] Logistic regression
+- [x] K-nearest neighbor
+- [x] SVM
+- [x] Decision trees
+- [ ] Hierachical clustering
+- [ ] Spectral clustering
+
 ## Resources
 * Overview of data science - after reading them you will find this roadmap makes a lot of sense
     * [ Advice For New And Junior Data Scientists - Hamel Husain (senior data scientist) |ODSC West 2017](https://www.youtube.com/watch?v=eDK1R6tpZlA)
